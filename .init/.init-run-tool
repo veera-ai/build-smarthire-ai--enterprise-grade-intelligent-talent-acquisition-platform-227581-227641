@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && python manage.py migrate && python manage.py runserver <host>:<port>",
+    "working_directory": "/home/kavia/workspace/code-generation/build-smarthire-ai--enterprise-grade-intelligent-talent-acquisition-platform-227581-227641/smarthire_backend"
+}
